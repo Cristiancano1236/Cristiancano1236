@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:22C55E&height=120&section=header&text=Cristian%20Cano%20•%20Ciscode&fontColor=ffffff&fontAlignY=50" alt="Banner">
   </p>
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3200&pause=600&color=0EA5E9&center=true&vCenter=true&width=750&lines=Desarrollo+Web+Profesional;%F0%9F%9A%80+Bootstrap%2C+Tailwind%2C+React%2C+Next.js%2C+TypeScript;%E2%98%81%EF%B8%8F+AWS+%7C+APIs+con+Node.js%2FExpress" alt="Typing Intro">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3200&pause=600&color=0EA5E9&center=true&vCenter=true&width=900&lines=Desarrollo+Web+Profesional;%F0%9F%9A%80+Bootstrap%2C+Tailwind%2C+React%2C+Next.js%2C+TypeScript%2C+Vite%2C+PWA;%E2%98%81%EF%B8%8F+AWS+%7C+GitHub+%7C+Cursor+%7C+APIs+con+Node.js%2FExpress" alt="Typing Intro">
   </p>
   
   <!-- Accesos rápidos (CTA) -->
@@ -39,16 +39,18 @@
   </p>
   
   <p align="center">
-    <!-- Incluye: TypeScript, Tailwind, PHP, Python, C# -->
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react,next,vue,nodejs,express,php,py,cs,mysql,mongodb,aws,docker,git,github,vscode&perline=10" alt="Skills">
+    <!-- Incluye: TypeScript, Tailwind, Vite, PWA, PHP, Python, C# -->
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,vite,pwa,bootstrap,react,next,vue,nodejs,express,php,py,cs,mysql,mongodb,aws,docker,git,github,vscode&perline=10" alt="Skills">
   </p>
   
   <!-- Chips por áreas con paleta unificada -->
   <p align="center">
-    <img alt="Frontend" src="https://img.shields.io/badge/Frontend-HTML5%20•%20CSS3%20•%20Bootstrap%20•%20Tailwind%20•%20React%20•%20TypeScript%20•%20Next.js%20•%20Vue-111827?style=flat&labelColor=0b1020&color=0ea5e9"><br/>
+    <img alt="Frontend" src="https://img.shields.io/badge/Frontend-HTML5%20•%20CSS3%20•%20Bootstrap%20•%20Tailwind%20•%20React%20•%20TypeScript%20•%20Next.js%20•%20Vue%20•%20PWA-111827?style=flat&labelColor=0b1020&color=0ea5e9"><br/>
     <img alt="Backend" src="https://img.shields.io/badge/Backend-Node.js%20•%20Express%20•%20PHP%20•%20Python%20•%20C%23-111827?style=flat&labelColor=0b1020&color=22c55e"><br/>
     <img alt="Datos" src="https://img.shields.io/badge/Datos-MySQL%20•%20MongoDB%20•%20MariaDB-111827?style=flat&labelColor=0b1020&color=0ea5e9"><br/>
-    <img alt="Cloud" src="https://img.shields.io/badge/Cloud-AWS-111827?style=flat&labelColor=0b1020&color=22c55e">
+    <img alt="Cloud" src="https://img.shields.io/badge/Cloud-AWS-111827?style=flat&labelColor=0b1020&color=22c55e"><br/>
+    <!-- Tooling agregado para reflejar stack de presentación del sitio -->
+    <img alt="Tooling" src="https://img.shields.io/badge/Tooling-Vite%20•%20GitHub%20•%20Cursor-111827?style=flat&labelColor=0b1020&color=0ea5e9">
   </p>
   
   <!-- Separador gradiente -->
