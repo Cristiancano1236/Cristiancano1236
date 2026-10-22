@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="188" viewBox="0 0 900 188" role="img" aria-label="Uniline, Adamia">
-  <rect width="900" height="188" rx="28" fill="#FFFFFF" stroke="#E7E1D8"/>
-  <rect x="28" y="28" width="36" height="6" rx="3" fill="#63CBD6"/>
-  <text x="28" y="62" fill="#5E686B" font-family="Inter, Segoe UI, sans-serif" font-size="13" letter-spacing="1.2">UNILINE · CIUDAD DE MÉXICO · REMOTO · NOV 2025  ABR 2026</text>
-  <text x="28" y="102" fill="#41474A" font-family="Inter, Segoe UI, sans-serif" font-size="26" font-weight="700">Adamia</text>
-  <text x="28" y="136" fill="#41474A" font-family="Inter, Segoe UI, sans-serif" font-size="16">Plataforma de recursos humanos: asistencias, permisos y operación multiempresa.</text>
-  <text x="28" y="160" fill="#5E686B" font-family="Inter, Segoe UI, sans-serif" font-size="15">Next.js · React · Node.js · MySQL</text>
-</svg>
