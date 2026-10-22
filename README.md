@@ -1,50 +1,47 @@
-# Cristian Cano
+<p align="center">
+  <img src="assets/header.svg" alt="Cristian Cano. Trabajo para Mindel. Desarrollo Mindagro y Akogym. Medellín, remoto, diciembre 2025 a la actualidad." width="900">
+</p>
 
-Desarrollador de software en Medellín. Desde 2018 armo productos web a medida. Hoy trabajo en remoto con [Mindel](https://mindel.es), desde España.
+<h2>Ahora</h2>
 
-## Ahora
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://mind-agro.com">
+        <img src="assets/card-mindagro.svg" alt="Mindagro. PWA de gestión agrícola y fichaje en campo en España. Funciona sin internet y sincroniza al volver la red." width="430">
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://akogym.win/">
+        <img src="assets/card-akogym.svg" alt="Akogym. Gestión del gimnasio: socios, accesos, clases y pagos en un solo panel." width="430">
+      </a>
+    </td>
+  </tr>
+</table>
 
-**Mindel** · Autónomo · Madrid, remoto  
-Full stack developer y creador de Mindagro · diciembre 2025 – actualidad  
-React · Node.js · AWS
+<h2>Experiencia</h2>
 
-En Mindel construyo dos productos.
+<img src="assets/card-uniline.svg" alt="Uniline, Ciudad de México, remoto, noviembre 2025 a abril 2026. Adamia: asistencias, permisos y operación multiempresa. Next.js, React, Node.js y MySQL." width="900">
 
-[Mindagro](https://mind-agro.com) es una aplicación web progresiva de gestión agrícola para equipos en campo en España. El fichaje, con reconocimiento facial, manual o masivo, sigue funcionando sin conexión y sincroniza los datos al recuperar la red. También cubre geolocalización opcional, conteo de cajas, reportes y roles por empresa.
+<br>
 
-[Mindel](https://mindel.es) son agentes de IA para logística y paquetería. Atienden el teléfono, WhatsApp y el correo: consultan el estado de un envío, abren incidencias y programan recogidas, conectados a los sistemas de la operación.
+<img src="assets/card-miguel.svg" alt="Miguel Gomez y Cía S.A.S. Analista de medios de comunicación, jornada completa. Desarrollo web." width="900">
 
-## Experiencia
+<h2>Con qué trabajo</h2>
 
-### Uniline · Ciudad de México, remoto
+<img src="assets/stack.svg" alt="TypeScript, JavaScript, React, Next.js, Vite, Tailwind, Node.js, Express, MySQL, PWA y AWS." width="900">
 
-Desarrollador full stack · Profesional independiente · noviembre 2025 – abril 2026  
-Next.js · React · Node.js · MySQL
+<h2>Otros proyectos</h2>
 
-Desarrollé y mantuve **Adamia**, una plataforma web de recursos humanos. El foco era el control de asistencias, la gestión de permisos y la operación multiempresa. El trabajo fue de punta a punta, en frontend y en backend.
+<img src="assets/projects.svg" alt="ECL Fruver, Diálogo, Casa Blanca Control y Miaz Tienda." width="900">
 
-### Miguel Gomez y Cía S.A.S
-
-Analista de medios de comunicación · Jornada completa  
-Desarrollo web.
-
-## Con qué trabajo
-
-TypeScript, JavaScript, React, Next.js, Vite, Tailwind, Node.js, Express, MySQL, PWA y AWS.
-
-## Otros proyectos
-
-- [ECL Fruver](https://github.com/Cristiancano1236/ECL-Fruver) — tienda en línea de una fruver en Medellín: catálogo, domicilio, cuenta de cliente y panel de pedidos.
-- [Diálogo](https://dialogoencuentro.com/) — reservas de consultorio, puesto o salón, con calendario de lo que está libre.
-- [Casa Blanca Control](https://casablancacontrol.com/) — control de un parqueadero: entra el carro, se cobra y al cierre del turno queda claro cuánto entró.
-- [Miaz Tienda](https://miaztienda.com/) — tienda de regalos personalizados.
+- [ECL Fruver](https://github.com/Cristiancano1236/ECL-Fruver) — tienda en línea: catálogo, domicilio, cuenta de cliente y panel de pedidos.
+- [Diálogo](https://dialogoencuentro.com/) — reservas de consultorio, puesto o salón.
+- [Casa Blanca Control](https://casablancacontrol.com/) — control de parqueadero.
+- [Miaz Tienda](https://miaztienda.com/) — regalos personalizados.
 
 Más trabajo en [ciscodedev.netlify.app](https://ciscodedev.netlify.app/).
 
-## Contacto
+<h2>Contacto</h2>
 
-- [Sitio](https://ciscodedev.netlify.app/)
-- [LinkedIn](https://www.linkedin.com/in/cristian-cano-a19274347/)
-- [YouTube](https://www.youtube.com/@Ciscodedev)
-- [cristiancano1236@gmail.com](mailto:cristiancano1236@gmail.com)
-- [WhatsApp +57 300 695 7308](https://wa.me/573006957308)
+[Sitio](https://ciscodedev.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/cristian-cano-a19274347/) · [YouTube](https://www.youtube.com/@Ciscodedev) · [cristiancano1236@gmail.com](mailto:cristiancano1236@gmail.com) · [WhatsApp](https://wa.me/573006957308)

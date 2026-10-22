@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="148" viewBox="0 0 900 148" role="img" aria-label="Stack">
+  <rect width="900" height="148" rx="28" fill="#F7F4EE"/>
+  <text x="28" y="40" fill="#5E686B" font-family="Inter, Segoe UI, sans-serif" font-size="13" letter-spacing="1.2">CON QUÉ TRABAJO</text>
+  <g font-family="Inter, Segoe UI, sans-serif" font-size="14" fill="#41474A">
+    <rect x="28" y="58" width="118" height="32" rx="16" fill="#FFFFFF"/>
+    <text x="44" y="79">TypeScript</text>
+    <rect x="156" y="58" width="112" height="32" rx="16" fill="#FFFFFF"/>
+    <text x="172" y="79">JavaScript</text>
+    <rect x="278" y="58" width="78" height="32" rx="16" fill="#FFFFFF"/>
+    <text x="298" y="79">React</text>
+    <rect x="366" y="58" width="92" height="32" rx="16" fill="#FFFFFF"/>
+    <text x="386" y="79">Next.js</text>
+    <rect x="468" y="58" width="64" height="32" rx="16" fill="#FFFFFF"/>
+    <text x="486" y="79">Vite</text>
+    <rect x="542" y="58" width="96" height="32" rx="16" fill="#FFFFFF"/>
+    <text x="558" y="79">Tailwind</text>
+    <rect x="28" y="100" width="96" height="32" rx="16" fill="#FFFFFF"/>
+    <text x="44" y="121">Node.js</text>
+    <rect x="134" y="100" width="92" height="32" rx="16" fill="#FFFFFF"/>
+    <text x="152" y="121">Express</text>
+    <rect x="236" y="100" width="78" height="32" rx="16" fill="#FFFFFF"/>
+    <text x="254" y="121">MySQL</text>
+    <rect x="324" y="100" width="64" height="32" rx="16" fill="#63CBD6"/>
+    <text x="342" y="121">PWA</text>
+    <rect x="398" y="100" width="64" height="32" rx="16" fill="#41474A"/>
+    <text x="414" y="121" fill="#F7F4EE">AWS</text>
+  </g>
+</svg>

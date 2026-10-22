@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Otros proyectos">
+  <rect width="900" height="220" rx="28" fill="#F7F4EE"/>
+  <text x="28" y="40" fill="#5E686B" font-family="Inter, Segoe UI, sans-serif" font-size="13" letter-spacing="1.2">OTROS PROYECTOS</text>
+  <g font-family="Inter, Segoe UI, sans-serif">
+    <rect x="28" y="58" width="410" height="70" rx="18" fill="#FFFFFF"/>
+    <text x="48" y="88" fill="#41474A" font-size="18" font-weight="700">ECL Fruver</text>
+    <text x="48" y="110" fill="#5E686B" font-size="13">Tienda, domicilio y panel de pedidos</text>
+    <rect x="462" y="58" width="410" height="70" rx="18" fill="#FFFFFF"/>
+    <text x="482" y="88" fill="#41474A" font-size="18" font-weight="700">Diálogo</text>
+    <text x="482" y="110" fill="#5E686B" font-size="13">Reservas con calendario</text>
+    <rect x="28" y="138" width="410" height="70" rx="18" fill="#FFFFFF"/>
+    <text x="48" y="168" fill="#41474A" font-size="18" font-weight="700">Casa Blanca Control</text>
+    <text x="48" y="190" fill="#5E686B" font-size="13">Entrada, cobro y cierre de turno</text>
+    <rect x="462" y="138" width="410" height="70" rx="18" fill="#FFFFFF"/>
+    <text x="482" y="168" fill="#41474A" font-size="18" font-weight="700">Miaz Tienda</text>
+    <text x="482" y="190" fill="#5E686B" font-size="13">Regalos personalizados</text>
+  </g>
+</svg>

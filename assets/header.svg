@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="228" viewBox="0 0 900 228" role="img" aria-label="Cristian Cano, full stack en Mindel">
+  <rect width="900" height="228" rx="32" fill="#F7F4EE"/>
+  <rect x="40" y="40" width="56" height="8" rx="4" fill="#63CBD6"/>
+  <text x="40" y="78" fill="#5E686B" font-family="Inter, Segoe UI, sans-serif" font-size="14" letter-spacing="1.6">MINDEL · MADRID · REMOTO</text>
+  <text x="40" y="128" fill="#41474A" font-family="Inter, Segoe UI, sans-serif" font-size="46" font-weight="700">Cristian Cano</text>
+  <text x="40" y="166" fill="#41474A" font-family="Inter, Segoe UI, sans-serif" font-size="18">Trabajo para Mindel. Desarrollo Mindagro y Akogym.</text>
+  <text x="40" y="196" fill="#5E686B" font-family="Inter, Segoe UI, sans-serif" font-size="15">Medellín · diciembre 2025  actualidad · React, Node.js, AWS</text>
+</svg>
